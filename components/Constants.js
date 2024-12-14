@@ -1,0 +1,1 @@
+export let emailArray={"kiran@gmail.com":"12345678","Sandarsh@gmail.com":"987654321"};
